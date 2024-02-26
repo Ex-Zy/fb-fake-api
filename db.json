@@ -214,26 +214,6 @@
       ]
     },
     {
-      "id": 8,
-      "title": "Learning paths",
-      "category": "feature",
-      "upvotes": 28,
-      "isUpvoted": false,
-      "status": "planned",
-      "description": "Sequenced projects for different goals to help people improve.",
-      "comments": [
-        {
-          "id": 12,
-          "content": "Having a path through the challenges that I could follow would be brilliant! Sometimes I'm not sure which challenge would be the best next step to take. So this would help me navigate through them!",
-          "user": {
-            "image": "image-george.jpg",
-            "name": "George Partridge",
-            "username": "soccerviewer8"
-          }
-        }
-      ]
-    },
-    {
       "id": 9,
       "title": "One-click portfolio generation",
       "category": "feature",
